@@ -8,7 +8,7 @@ Codecov,adopt,tools,FALSE,"Code coverage reporting, integrated into our developm
 Travis CI,adopt,CI/CD,FALSE,"..."
 Heroku,adopt,CI/CD,FALSE,"..."
 AppVeyor CI,hold,CI/CD,FALSE,"..."
-Github Bots,adopt,tools,FALSE,"..."
+Github Bots,adopt,CI/CD,FALSE,"..."
 JavaScript,adopt,languages & frameworks,FALSE,"The language of the web"
 TypeScript,assess,languages & frameworks,FALSE,"The language of the web, typed"
 Community Worker,adopt,techniques & activities,FALSE,"..."
